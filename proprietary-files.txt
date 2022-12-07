@@ -2251,6 +2251,7 @@ vendor/lib64/vendor.qti.hardware.wigig.supptunnel@1.0.so
 system_ext/app/NQNfcNci/lib/arm64/libsn100nfc_nci_jni.so
 -system_ext/app/NQNfcNci/NQNfcNci.apk
 -system_ext/app/PerformanceMode/PerformanceMode.apk
+-system_ext/app/QCC/QCC.apk
 -system_ext/app/QColor/QColor.apk
 -system_ext/app/QesdkSysService/QesdkSysService.apk
 -system_ext/app/QTIDiagServices/QTIDiagServices.apk
@@ -2445,7 +2446,6 @@ system_ext/lib/libCompressor_recpp.so
 system_ext/lib/libDiagService.so
 system_ext/lib/libdiag_system.qti.so
 system_ext/lib/libdisplayconfig.system.qti.so
-system_ext/lib/libdolphin.so
 system_ext/lib/libGPQTEEC_system.qti.so
 system_ext/lib/libGPTEE_system.qti.so
 system_ext/lib/libgralloc.system.qti.so
@@ -2557,7 +2557,6 @@ system_ext/lib64/libdashsamplesource.so
 system_ext/lib64/libDiagService.so
 system_ext/lib64/libdiag_system.qti.so
 system_ext/lib64/libdisplayconfig.system.qti.so
-system_ext/lib64/libdolphin.so
 system_ext/lib64/libembmsmmosal.so
 system_ext/lib64/libembmsmmparser_lite.so
 system_ext/lib64/libembmssqlite.so
