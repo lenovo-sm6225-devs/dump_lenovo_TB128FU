@@ -1,4 +1,4 @@
-Dump ROM ZUI 13.5.316 Lenovo Tab M10 Plus (3rd Gen) / Lenovo TB128FU (TB128FU/P89990JA1)
+Dump ROM ZUI 13.5.476 Lenovo Tab M10 Plus (3rd Gen) / Lenovo TB128FU (TB128FU/P89990JA1)
 ==========================================
 
 The Lenovo Tab M10 Plus (3rd Gen) (codenamed _"tb128fu"_).
